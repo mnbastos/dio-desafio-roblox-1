@@ -8,5 +8,4 @@ O "Primeiro Teste de Jogo no Roblox" é um projeto que visa ensinar os fundament
 
 ## Acesso:
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+Link: ([https://github.com/seu-usuario/seu-repositorio.git](https://www.roblox.com/pt/games/113901787921681/Primeiro-teste-de-jogo-no-Roblox))
